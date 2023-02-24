@@ -23,7 +23,8 @@ The user can edit text on a page resembling a coding editor. When the user edits
 
 ## Application
 
-Screenshot:
+Screenshot: ![Jate](https://user-images.githubusercontent.com/111660791/221113618-096d6911-d738-4c5e-84df-2020c2f9261a.PNG)
+
 
 Application link: https://week19texteditor.herokuapp.com/
 
